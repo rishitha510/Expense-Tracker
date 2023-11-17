@@ -12,8 +12,9 @@ It has various features such as
 
 Technologies Used:
 1. HTML5
-2. ReactJs
-3. Styled Components
+2. CSS3
+3. ReactJs
+4. Styled Components
 
 
 
